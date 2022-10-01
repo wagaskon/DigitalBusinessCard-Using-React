@@ -23,5 +23,5 @@ Link: [Open HTML files in Editor](index.html)
 Link: [Open CSS files in Editor](src/APP.css)
 
 ### React Js files
-Link: [Open ReactJs files in Editor](srcApp.jsx)
+Link: [Open ReactJs files in Editor](src/App.jsx)
 
