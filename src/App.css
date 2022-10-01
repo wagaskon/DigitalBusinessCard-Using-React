@@ -9,7 +9,7 @@
     margin: 20px auto;
     border-radius: 30px;
     border: 2px solid yellow;
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
     background-color: #1A1B21;
     color: white;
 
@@ -89,9 +89,19 @@ p{
 }
 
 /* Icons */
+footer{
+    width: 314px;
+    height: 64px;
+    border-radius: 0 0  30px 30px;
+    background-color: #161619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .Foot{
     /* border: 2px solid red; */
+    /* background-color: red; */
     width: 200px;
     display: flex;
     justify-content: space-between;
