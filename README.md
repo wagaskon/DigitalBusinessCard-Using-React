@@ -20,7 +20,7 @@ From Scrimba: Design a busssiness card as shown in this image. (figma link was p
 Link: [Open HTML files in Editor](index.html)
 
 ### CSS 
-Link: [Open CSS files in Editor](src/APP.css)
+Link: [Open CSS files in Editor](src/App.css)
 
 ### React Js files
 Link: [Open ReactJs files in Editor](src/App.jsx)
