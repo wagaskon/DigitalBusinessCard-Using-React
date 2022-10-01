@@ -5,7 +5,7 @@ function App() {
     <main className="App">
       <div className="Container flexbox">
         <header>
-          <img className='wagas'  src="images/waqas.png" alt="Profile Picture"></img>
+          <img className='wagas'  src="./images/waqas.png" alt="Profile Picture"></img>
         </header>
         <section className="info flexbox">
           <div className='name flexbox'>
@@ -15,7 +15,7 @@ function App() {
           </div >
           <div className='btns'>
             <button className='emailbtn'>
-            <img className='btn_icon' src="./icons/emailicon.jpg" alt="email Icon"></img>
+            <img className='btn_icon' src="icons/emailicon.jpg" alt="email Icon"></img>
               Email</button>
             <button className='linkbtn'>
             <img className='btn_icon' src="./icons/linkicon.png" alt="linkedin Icon"></img>Linkedin</button>
@@ -30,10 +30,10 @@ function App() {
         </section>
         <footer >
           <div className='Foot'>
-            <img className='icon' src="icons/twittericon.jpg" alt="Twitter Icon"></img>
-            <img className='icon' src="icons/facebookicon.png" alt="facebook"></img>
+            <img className='icon' src="./icons/twittericon.jpg" alt="Twitter Icon"></img>
+            <img className='icon' src="./icons/facebookicon.png" alt="facebook"></img>
             <img className='icon' src="icons/instagrmicon.png" alt="instagram"></img>
-            <img className='icon' src="icons/githubicon.png" alt="github"></img>
+            <img className='icon' src="./icons/githubicon.png" alt="github"></img>
           </div>
         </footer>
       </div>
