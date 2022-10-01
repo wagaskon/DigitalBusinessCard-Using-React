@@ -5,7 +5,7 @@ function App() {
     <main className="App">
       <div className="Container flexbox">
         <header>
-          <img className='wagas' src="./waqas.png" alt="Profile Picture"></img>
+          <img className='wagas' src="./Images/waqas.png" alt="Profile Picture"></img>
         </header>
         <section className="info flexbox">
           <div className='name flexbox'>
