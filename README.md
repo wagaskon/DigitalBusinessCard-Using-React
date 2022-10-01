@@ -7,11 +7,11 @@ From Scrimba: Design a busssiness card as shown in this image. (figma link was p
 - you can make any changes to it but it should replicate the design
 - you can change image, text , color.
 
- ![design](Images/Design.png)  
+ ![design](images/Design.png)  
 
 ### My design: 
 
- ![design](Images/Design2.png)
+ ![design](images/Design2.png)
 
 
 
