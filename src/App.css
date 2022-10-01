@@ -1,0 +1,104 @@
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Container{
+    width: 317px;
+    margin: 20px auto;
+    border-radius: 30px;
+    border: 2px solid yellow;
+    padding-bottom: 20px;
+    background-color: #1A1B21;
+    color: white;
+
+}
+/* Header CSS */
+
+.wagas{
+    width: 247px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
+
+
+/* Section CSS */
+section{
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+/* Naming  */
+h1{
+    margin-bottom: 5px;
+   
+}
+h5{
+    margin: 0 0 5px 0;
+    /* color: #CAA082; */
+}
+h6{
+    margin-top: 0;
+}
+/* Buttons */
+.btn_icon{
+    width: 16px;
+    margin-right: 8px;
+}
+.btns{
+    /* border: 2px solid red; */
+
+    width: 247;
+    display: flex;
+    justify-content: space-between;
+
+}
+button{
+    width: 115px;
+    height: 34px;
+    border-radius: 5px;
+    padding: 9px 11px; 
+    font-size: 14px;
+    /* font-weight: ; */
+    /* font-family: inherit; */
+
+    font-family: 'Mingzat';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+.emailbtn{
+    margin-right: 8px;
+    background-color: #FFFFFF;
+}
+.linkbtn{
+    /* margin-top: 0; */
+    /* padding-top: 0; */
+    margin-left: 8px;
+    background-color: #007AB9;
+}
+/* Paragraphs */
+p{
+    font-family: 'Mingzat';
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #DCDCDC;
+}
+
+/* Icons */
+
+.Foot{
+    /* border: 2px solid red; */
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.icon{
+    width: 30px;
+    height: 30px;    
+    border-radius: 50px;
+}
