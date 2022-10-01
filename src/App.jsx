@@ -1,11 +1,11 @@
 import './App.css'
-
+import profile from '../images/wagas.png'
 function App() {
     return (
     <main className="App">
       <div className="Container flexbox">
         <header>
-          <img className='wagas'  src="./images/waqas.png" alt="Profile Picture"></img>
+          <img className='wagas'  src={profile} alt="Profile Picture"></img>
         </header>
         <section className="info flexbox">
           <div className='name flexbox'>
