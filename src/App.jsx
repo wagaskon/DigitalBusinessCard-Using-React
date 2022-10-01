@@ -30,8 +30,8 @@ function App() {
         </section>
         <footer >
           <div className='Foot'>
-            <img className='icon' src="./icons/twittericon.jpg" alt="Twitter Icon"></img>
-            <img className='icon' src="./icons/facebookicon.png" alt="facebook"></img>
+            <img className='icon' src="../icons/twittericon.jpg" alt="Twitter Icon"></img>
+            <img className='icon' src="../icons/facebookicon.png" alt="facebook"></img>
             <img className='icon' src="./icons/instagrmicon.png" alt="instagram"></img>
             <img className='icon' src="./icons/githubicon.png" alt="github"></img>
           </div>
